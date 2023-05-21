@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test_project.LibraryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-15T19:26:05" hostname="DESKTOP-76JENMK" time="0.0">
+  <properties/>
+  <testcase name="testSomeLibraryMethod" classname="test_project.LibraryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
